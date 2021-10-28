@@ -65,6 +65,18 @@ ___
 - Conventionally, devs import Open Zeppelin smart contracts. However, given Fantom is the smart chain of choice, in instances where ERC20 / BEP20 is referenced a new variant of the contract in question is forked and becomes a unique contract in name only, not in logic.
 - The schema of swap-lib, swap-core, and swap-periphery are modeled exactly like Pancakeswap, from which the repositories are forked and altered to meet the context of Fantom.
 
+
+## Deployed Contracts (Mainnet)
+
+- [MakiswapFactory.sol](https://ftmscan.com/address/0xC57d2f4394380b8f78c8bdB7Aea76D4C7f898cc6#code): 0xC57d2f4394380b8f78c8bdB7Aea76D4C7f898cc6
+    - `INIT_CODE_PAIR_HASH`: 0x2acbec29338e4096442cb2019c580c6c53d65f6bf66f30e30273e71b0538f0f5 
+- [MakiswapRouter.sol](https://ftmscan.com/address/0x8553fd96Ab447703e03E357c824c7793845e6f9c#code): 0x8553fd96Ab447703e03E357c824c7793845e6f9c
+
+- [MakiToken.sol](https://ftmscan.com/address/0x410Cf1db858561c65F7B1177Ef0790Dd4b548aCc#code): 0x410Cf1db858561c65F7B1177Ef0790Dd4b548aCc
+- [SoyBar.sol](https://ftmscan.com/address/0xa5A40231C8636784DC26658472CE685154183F8b#code): 0xa5A40231C8636784DC26658472CE685154183F8b
+- [MasterChef.sol](https://ftmscan.com/address/0xb5fb12266e5634aF4958bFB20b2382068a1D821A#code): 0xb5fb12266e5634aF4958bFB20b2382068a1D821A
+- [SousChef.sol](https://ftmscan.com/address/0x4F72B0f623F6AC7f2002982499887E7E8321B336#code): 0x4F72B0f623F6AC7f2002982499887E7E8321B336
+
 ## Deployed Contracts (Testnet)
 - [MakiswapFactory.sol](https://testnet.ftmscan.com/address/0x3297a02bcbd243fcce925bfe26345161453d1a52#code): 0x3297a02bcbd243fcce925bfe26345161453d1a52
     - `INIT_CODE_PAIR_HASH`: 0x4ab653b3b599042ff06f15448fa3cfea38d2b0931cdcbd174020e106ba1aea3f 
@@ -74,6 +86,3 @@ ___
 - [SoyBar.sol](https://testnet.ftmscan.com/address/0x058b271c2909c2a690a543bef2bd165eb59e8efd#code): 0x058b271c2909c2a690a543bef2bd165eb59e8efd
 - [MasterChef.sol](https://testnet.ftmscan.com/address/0x1becb580c988a71e9542982797cbdd8e81ae534b#code): 0x1becb580c988a71e9542982797cbdd8e81ae534b
 - [SousChef.sol](https://testnet.ftmscan.com/address/0x79b5554dD97910E628ed12b9E62F6A0e42413D36#code): 0x79b5554dD97910E628ed12b9E62F6A0e42413D36
-
-
-## Deployed Contracts (Mainnet)
