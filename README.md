@@ -68,21 +68,27 @@ ___
 
 ## Deployed Contracts (Mainnet)
 
-- [MakiswapFactory.sol](https://ftmscan.com/address/0xC57d2f4394380b8f78c8bdB7Aea76D4C7f898cc6#code): 0xC57d2f4394380b8f78c8bdB7Aea76D4C7f898cc6
-    - `INIT_CODE_PAIR_HASH`: 0x2acbec29338e4096442cb2019c580c6c53d65f6bf66f30e30273e71b0538f0f5 
-- [MakiswapRouter.sol](https://ftmscan.com/address/0x8553fd96Ab447703e03E357c824c7793845e6f9c#code): 0x8553fd96Ab447703e03E357c824c7793845e6f9c
+# About the Maki Protocol Repo
+This repository is designed as a container for the contracts that play the most pivotal role in the farm and exchange components of the Maki Protocol, which is a Pancakeswap fork designed to operate on Fantom.
+___
 
-- [MakiToken.sol](https://ftmscan.com/address/0x410Cf1db858561c65F7B1177Ef0790Dd4b548aCc#code): 0x410Cf1db858561c65F7B1177Ef0790Dd4b548aCc
-- [SoyBar.sol](https://ftmscan.com/address/0xa5A40231C8636784DC26658472CE685154183F8b#code): 0xa5A40231C8636784DC26658472CE685154183F8b
-- [MasterChef.sol](https://ftmscan.com/address/0xb5fb12266e5634aF4958bFB20b2382068a1D821A#code): 0xb5fb12266e5634aF4958bFB20b2382068a1D821A
-- [SousChef.sol](https://ftmscan.com/address/0x4F72B0f623F6AC7f2002982499887E7E8321B336#code): 0x4F72B0f623F6AC7f2002982499887E7E8321B336
+## Deployed Contracts (Mainnet)
+- [MakiswapFactory.sol](https://ftmscan.com/address/0x5003Aba8e9F72d40927f1305ee370E426d8A5321#code): 0x5003Aba8e9F72d40927f1305ee370E426d8A5321
+    - `INIT_CODE_PAIR_HASH`: 0xef9b31ecd67f9d95e8084c8b67baac51bd22f26a9febdc2077b08d554ce90f33  
+- [MakiswapRouter.sol](https://ftmscan.com/address/0x58C408AEDB2C6868a5599E4ad2Eb4e260cBCd686#code): 0x58C408AEDB2C6868a5599E4ad2Eb4e260cBCd686
+
+- [MakiToken.sol](https://ftmscan.com/address/0xEDf5e2Ac09002094Cc51B597CebE58C70182ADC5#code): 0xEDf5e2Ac09002094Cc51B597CebE58C70182ADC5
+- [SoyBar.sol](https://ftmscan.com/address/0x07752dfa1aF06063dCc6c986B717c71e9E06a827#code): 0x07752dfa1aF06063dCc6c986B717c71e9E06a827
+- [MasterChef.sol](https://ftmscan.com/address/0x06b2040383B04d99536f85cb2d49a26Ca26bA6Dd#code): 0x06b2040383B04d99536f85cb2d49a26Ca26bA6Dd
+- [SousChef.sol](https://ftmscan.com/address/0xbe96159F6d8E73d1e3979CAA3E54A60b690faCAb#code): 0xbe96159F6d8E73d1e3979CAA3E54A60b690faCAb
+
 
 ## Deployed Contracts (Testnet)
-- [MakiswapFactory.sol](https://testnet.ftmscan.com/address/0x3297a02bcbd243fcce925bfe26345161453d1a52#code): 0x3297a02bcbd243fcce925bfe26345161453d1a52
-    - `INIT_CODE_PAIR_HASH`: 0x4ab653b3b599042ff06f15448fa3cfea38d2b0931cdcbd174020e106ba1aea3f 
-- [MakiswapRouter.sol](https://testnet.ftmscan.com/address/0x6fc9ae2657511d553827bb1920b1d492456ed5e7#code): 0x6fc9ae2657511d553827bb1920b1d492456ed5e7
+- [MakiswapFactory.sol](https://testnet.ftmscan.com/address/0xec70d9d36cb0fa0768cf1e4c3417badb39678072#code): 0xec70d9d36cb0fa0768cf1e4c3417badb39678072
+    - `INIT_CODE_PAIR_HASH`: 0xef9b31ecd67f9d95e8084c8b67baac51bd22f26a9febdc2077b08d554ce90f33
+- [MakiswapRouter.sol](https://testnet.ftmscan.com/address/0x85Fc0F494Ca5cd9d277aD8AbB026404f4F059eD0#code): 0x85Fc0F494Ca5cd9d277aD8AbB026404f4F059eD0
 
-- [MakiToken.sol](https://testnet.ftmscan.com/address/0xeeb45d492c7c87d739045fa76feebe1657a05dd5#code): 0xeeb45d492c7c87d739045fa76feebe1657a05dd5
-- [SoyBar.sol](https://testnet.ftmscan.com/address/0x058b271c2909c2a690a543bef2bd165eb59e8efd#code): 0x058b271c2909c2a690a543bef2bd165eb59e8efd
-- [MasterChef.sol](https://testnet.ftmscan.com/address/0x1becb580c988a71e9542982797cbdd8e81ae534b#code): 0x1becb580c988a71e9542982797cbdd8e81ae534b
-- [SousChef.sol](https://testnet.ftmscan.com/address/0x79b5554dD97910E628ed12b9E62F6A0e42413D36#code): 0x79b5554dD97910E628ed12b9E62F6A0e42413D36
+- [MakiToken.sol](https://testnet.ftmscan.com/address/0x593e40F3aca5C579A5F13E0d6e8F113E3A6D56b1#code): 0x593e40F3aca5C579A5F13E0d6e8F113E3A6D56b1
+- [SoyBar.sol](https://testnet.ftmscan.com/address/0xe249A7AE64a2b0A59bAAcE12b6e5e1B3FdBDB863#code): 0xe249A7AE64a2b0A59bAAcE12b6e5e1B3FdBDB863
+- [MasterChef.sol](https://testnet.ftmscan.com/address/0x336C2eF388BF1E07F90c55f9377Aeb44734Cd569#code): 0x336C2eF388BF1E07F90c55f9377Aeb44734Cd569
+- [SousChef.sol](https://testnet.ftmscan.com/address/0x167e9a6F63FeBBCB2F5a0538bA0724Bb2c9eD6c1#code): 0x167e9a6F63FeBBCB2F5a0538bA0724Bb2c9eD6c1
